@@ -35,8 +35,6 @@ Through systematic testing on five independent quantum computing platforms, we h
 
 ### Paper
 
-**File**: `CONSENSUAL_INFORMATION_COSMOLOGY_SCIENTIFIC_BRIEF.txt`
-
 **Abstract**: We present experimental validation of Consensual Information Cosmology (CIC), a unified theoretical framework proposing that physical reality emerges from distributed quantum information processing achieving consensus about optimal states. Through systematic testing on five independent quantum computing platforms, we have validated eight fundamental predictions spanning quantum mechanics, general relativity, and cosmology with combined statistical significance p < 10^-86.
 
 ### Key Predictions Validated
@@ -73,7 +71,7 @@ This work is provided for scientific review and educational purposes. Commercial
 
 ### Contact
 
-For questions, collaboration inquiries, or access to supplementary data, please contact through GitHub issues or the Subvurs Research team.
+For questions, collaboration inquiries, or access to supplementary data, please contact through GitHub issues or email the Subvurs Research team at: research@subvurs.com.
 
 ### Related Repositories
 
